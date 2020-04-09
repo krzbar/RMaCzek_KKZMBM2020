@@ -1,0 +1,11 @@
+1
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "2" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Pithecanthropus, Spy.I, Krapina.D, Spy.II, Neandertal, Gibraltar, Krapina.C, Brux, Galey.Hill, Nowosiolka, Brunn, Egisheim, Kannstatt 
+Path_length criterion value: 59.6196606971721
+Um factor: 2.51945362628126
+Hamiltonian path length factor: 59.6196606971721
+[1] "======================================="

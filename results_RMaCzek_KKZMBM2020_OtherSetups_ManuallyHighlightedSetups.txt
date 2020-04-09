@@ -1,0 +1,758 @@
+13
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Egisheim, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 3.11331589082161
+Um factor: 15.2355042831052
+Hamiltonian path length factor: 3.11331589082161
+[1] "======================================="
+14
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Egisheim, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 3.11331589082161
+Um factor: 15.2355042831052
+Hamiltonian path length factor: 3.11331589082161
+[1] "======================================="
+17
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Pithecanthropus, Krapina.C, Gibraltar, Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I 
+Path_length criterion value: 2.87488328664799
+Um factor: 12.9661366105274
+Hamiltonian path length factor: 2.87488328664799
+[1] "======================================="
+18
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Pithecanthropus, Krapina.C, Gibraltar, Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I 
+Path_length criterion value: 2.87488328664799
+Um factor: 12.9661366105274
+Hamiltonian path length factor: 2.87488328664799
+[1] "======================================="
+19
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.40298337283631
+Um factor: 12.5400050082145
+Hamiltonian path length factor: 4.40298337283631
+[1] "======================================="
+20
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.40298337283631
+Um factor: 12.5400050082145
+Hamiltonian path length factor: 4.40298337283631
+[1] "======================================="
+21
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Galey.Hill, Brunn, Brux, Egisheim, Kannstatt, Nowosiolka, Krapina.C, Gibraltar, Spy.II, Spy.I, Krapina.D, Neandertal, Pithecanthropus 
+Path_length criterion value: 2.40850815850816
+Um factor: 15.4154960134181
+Hamiltonian path length factor: 2.40850815850816
+[1] "======================================="
+22
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Galey.Hill, Brunn, Brux, Egisheim, Kannstatt, Nowosiolka, Krapina.C, Gibraltar, Spy.II, Spy.I, Krapina.D, Neandertal, Pithecanthropus 
+Path_length criterion value: 2.40850815850816
+Um factor: 15.4154960134181
+Hamiltonian path length factor: 2.40850815850816
+[1] "======================================="
+23
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Pithecanthropus, Neandertal, Spy.I, Krapina.D, Spy.II, Gibraltar, Krapina.C, Nowosiolka, Kannstatt, Egisheim, Brux, Galey.Hill, Brunn 
+Path_length criterion value: 3.89177489177489
+Um factor: 14.7074724915612
+Hamiltonian path length factor: 3.89177489177489
+[1] "======================================="
+24
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"                NA                NA 
+[1] "Data"
+Pithecanthropus, Neandertal, Spy.I, Krapina.D, Spy.II, Gibraltar, Krapina.C, Nowosiolka, Kannstatt, Egisheim, Brux, Galey.Hill, Brunn 
+Path_length criterion value: 3.89177489177489
+Um factor: 14.7074724915612
+Hamiltonian path length factor: 3.89177489177489
+[1] "======================================="
+25
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Egisheim, Krapina.D, Gibraltar, Pithecanthropus, Kannstatt, Nowosiolka, Brux, Neandertal, Spy.II, Krapina.C, Spy.I, Brunn, Galey.Hill 
+Path_length criterion value: 1.56230211123662
+Um factor: 21.8518767974837
+Hamiltonian path length factor: 1.56230211123662
+[1] "======================================="
+
+26
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Galey.Hill, Brunn, Gibraltar, Brux, Spy.II, Pithecanthropus, Kannstatt, Egisheim 
+Path_length criterion value: 2.0730005343225
+Um factor: 19.3862209991547
+Hamiltonian path length factor: 2.0730005343225
+[1] "======================================="
+
+
+27
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Krapina.D, Gibraltar, Brunn, Galey.Hill, Egisheim, Krapina.C, Spy.I 
+Path_length criterion value: 1.94723676979474
+Um factor: 21.4836335155262
+Hamiltonian path length factor: 1.94723676979474
+[1] "======================================="
+28
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Brunn, Galey.Hill, Egisheim, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 2.25248278535792
+Um factor: 18.7514002762765
+Hamiltonian path length factor: 2.25248278535792
+
+[1] "======================================="
+29
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Krapina.D, Gibraltar, Brunn, Galey.Hill, Kannstatt, Pithecanthropus, Nowosiolka, Brux, Neandertal, Spy.II, Krapina.C, Spy.I 
+Path_length criterion value: 1.1991128615158
+Um factor: 19.0564374855979
+Hamiltonian path length factor: 1.1991128615158
+[1] "======================================="
+
+30
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Galey.Hill, Brunn, Gibraltar, Spy.II, Brux, Pithecanthropus, Kannstatt 
+Path_length criterion value: 1.62486940522601
+Um factor: 16.0865310052928
+Hamiltonian path length factor: 1.62486940522601
+[1] "======================================="
+
+31
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Kannstatt, Nowosiolka, Brux, Spy.II, Neandertal, Spy.I, Krapina.C, Galey.Hill, Brunn, Gibraltar, Krapina.D, Pithecanthropus 
+Path_length criterion value: 1.68951999849712
+Um factor: 18.6603257901865
+Hamiltonian path length factor: 1.68951999849712
+[1] "======================================="
+
+32
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Galey.Hill, Brunn, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 2.08658730899262
+Um factor: 14.5016602376533
+Hamiltonian path length factor: 2.08658730899262
+[1] "======================================="
+
+33
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Egisheim, Pithecanthropus, Neandertal, Spy.I, Spy.II, Brux, Nowosiolka, Kannstatt, Gibraltar, Krapina.C, Krapina.D, Brunn, Galey.Hill 
+Path_length criterion value: 1.78660115314665
+Um factor: 19.1574353579685
+Hamiltonian path length factor: 1.78660115314665
+[1] "======================================="
+34
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Galey.Hill, Brunn, Nowosiolka, Krapina.C, Gibraltar, Krapina.D, Neandertal, Brux, Spy.I, Spy.II, Pithecanthropus, Kannstatt, Egisheim 
+Path_length criterion value: 1.89496758465409
+Um factor: 16.8175366821612
+Hamiltonian path length factor: 1.89496758465409
+[1] "======================================="
+35
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Spy.I, Neandertal, Brux, Nowosiolka, Kannstatt, Egisheim, Krapina.D, Gibraltar, Krapina.C, Brunn, Galey.Hill 
+Path_length criterion value: 2.58620594541348
+Um factor: 17.3096999273252
+Hamiltonian path length factor: 2.58620594541348
+[1] "======================================="
+
+36
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"                NA                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Spy.I, Brux, Neandertal, Kannstatt, Gibraltar, Krapina.C, Krapina.D, Egisheim, Galey.Hill, Brunn, Nowosiolka 
+Path_length criterion value: 2.95259776123274
+Um factor: 16.7336175350687
+Hamiltonian path length factor: 2.95259776123274
+[1] "======================================="
+37
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Spy.I, Krapina.C, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Krapina.D, Egisheim, Galey.Hill, Brunn, Gibraltar, Pithecanthropus 
+Path_length criterion value: 4.33734028711118
+Um factor: 13.1746286859535
+Hamiltonian path length factor: 4.33734028711118
+[1] "======================================="
+38
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Egisheim, Kannstatt, Brux, Spy.II, Pithecanthropus, Gibraltar, Brunn, Galey.Hill 
+Path_length criterion value: 9.45843687954842
+Um factor: 8.1834220764449
+Hamiltonian path length factor: 9.45843687954842
+[1] "======================================="
+39
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Pithecanthropus, Krapina.D, Egisheim, Galey.Hill, Brunn, Gibraltar, Neandertal, Spy.II, Brux, Nowosiolka, Kannstatt, Krapina.C, Spy.I 
+Path_length criterion value: 7.25757289366238
+Um factor: 11.531511672722
+Hamiltonian path length factor: 7.25757289366238
+[1] "======================================="
+40
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Egisheim, Gibraltar, Brunn, Galey.Hill, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 12.9191860326594
+Um factor: 6.16397759455572
+Hamiltonian path length factor: 12.9191860326594
+[1] "======================================="
+41
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Spy.I, Krapina.C, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Brunn, Galey.Hill, Gibraltar, Krapina.D, Pithecanthropus 
+Path_length criterion value: 2.64681285295824
+Um factor: 13.3013088306938
+Hamiltonian path length factor: 2.64681285295824
+[1] "======================================="
+42
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Spy.II, Brux, Pithecanthropus, Gibraltar, Brunn, Galey.Hill, Kannstatt 
+Path_length criterion value: 6.7808934505415
+Um factor: 7.0605401787372
+Hamiltonian path length factor: 6.7808934505415
+[1] "======================================="
+43
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Pithecanthropus, Krapina.D, Kannstatt, Nowosiolka, Brux, Spy.II, Neandertal, Gibraltar, Brunn, Galey.Hill, Spy.I, Krapina.C 
+Path_length criterion value: 4.49011613468955
+Um factor: 10.4534595543889
+Hamiltonian path length factor: 4.49011613468955
+[1] "======================================="
+44
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Brunn, Galey.Hill, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 9.58151194438707
+Um factor: 4.80534251061126
+Hamiltonian path length factor: 9.58151194438707
+[1] "======================================="
+45
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Egisheim, Pithecanthropus, Kannstatt, Nowosiolka, Brux, Spy.II, Spy.I, Neandertal, Gibraltar, Krapina.D, Krapina.C, Brunn, Galey.Hill 
+Path_length criterion value: 3.38514484910963
+Um factor: 12.0326019319198
+Hamiltonian path length factor: 3.38514484910963
+[1] "======================================="
+46
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Galey.Hill, Brunn, Krapina.C, Gibraltar, Krapina.D, Neandertal, Brux, Spy.I, Spy.II, Pithecanthropus, Kannstatt, Egisheim 
+Path_length criterion value: 5.4066037089501
+Um factor: 7.48862915204408
+Hamiltonian path length factor: 5.4066037089501
+[1] "======================================="
+47
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Gibraltar, Krapina.D, Krapina.C, Brunn, Galey.Hill, Egisheim, Kannstatt, Nowosiolka, Brux, Neandertal, Spy.I, Spy.II, Pithecanthropus 
+Path_length criterion value: 5.03132781844916
+Um factor: 7.42045532742026
+Hamiltonian path length factor: 5.03132781844916
+[1] "======================================="
+48
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"                NA                NA 
+[1] "Data"
+Nowosiolka, Gibraltar, Krapina.C, Brunn, Galey.Hill, Egisheim, Kannstatt, Krapina.D, Neandertal, Spy.I, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 13.1931407320362
+Um factor: 5.68678613153007
+Hamiltonian path length factor: 13.1931407320362
+[1] "======================================="
+[1] "======================================="
+61
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Gibraltar, Krapina.C, Pithecanthropus, Spy.I, Neandertal, Krapina.D, Spy.II, Nowosiolka, Brunn, Egisheim, Galey.Hill, Brux, Kannstatt 
+Path_length criterion value: 3.22501942501943
+Um factor: 15.2769465573193
+Hamiltonian path length factor: 3.22501942501943
+[1] "======================================="
+62
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Gibraltar, Krapina.C, Pithecanthropus, Spy.I, Neandertal, Krapina.D, Spy.II, Nowosiolka, Brunn, Egisheim, Galey.Hill, Brux, Kannstatt 
+Path_length criterion value: 3.22501942501943
+Um factor: 15.2769465573193
+Hamiltonian path length factor: 3.22501942501943
+[1] "======================================="
+63
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Egisheim, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.12062937062937
+Um factor: 15.1946348721383
+Hamiltonian path length factor: 4.12062937062937
+[1] "======================================="
+64
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Egisheim, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.12062937062937
+Um factor: 15.1946348721383
+Hamiltonian path length factor: 4.12062937062937
+[1] "======================================="
+65
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Krapina.C, Gibraltar, Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I 
+Path_length criterion value: 3.05555555555556
+Um factor: 12.9771579307843
+Hamiltonian path length factor: 3.05555555555556
+[1] "======================================="
+66
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Krapina.C, Gibraltar, Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I 
+Path_length criterion value: 3.05555555555556
+Um factor: 12.9771579307843
+Hamiltonian path length factor: 3.05555555555556
+[1] "======================================="
+67
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.32637085137085
+Um factor: 12.4495574738611
+Hamiltonian path length factor: 4.32637085137085
+[1] "======================================="
+68
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Kannstatt, Brux, Galey.Hill, Brunn, Nowosiolka, Spy.II, Krapina.D, Neandertal, Spy.I, Pithecanthropus, Krapina.C, Gibraltar 
+Path_length criterion value: 4.32637085137085
+Um factor: 12.4495574738611
+Hamiltonian path length factor: 4.32637085137085
+[1] "======================================="
+71
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Neandertal, Spy.I, Krapina.D, Spy.II, Gibraltar, Krapina.C, Nowosiolka, Kannstatt, Egisheim, Brux, Galey.Hill, Brunn 
+Path_length criterion value: 4.03809523809524
+Um factor: 14.7575770780251
+Hamiltonian path length factor: 4.03809523809524
+[1] "======================================="
+72
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+          "FALSE"        "Stolyhwa"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Neandertal, Spy.I, Krapina.D, Spy.II, Gibraltar, Krapina.C, Nowosiolka, Kannstatt, Egisheim, Brux, Galey.Hill, Brunn 
+Path_length criterion value: 4.03809523809524
+Um factor: 14.7575770780251
+Hamiltonian path length factor: 4.03809523809524
+[1] "======================================="
+73
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Egisheim, Krapina.D, Gibraltar, Pithecanthropus, Kannstatt, Nowosiolka, Brux, Neandertal, Spy.II, Krapina.C, Spy.I, Brunn, Galey.Hill 
+Path_length criterion value: 1.56969789571648
+Um factor: 21.8437018625248
+Hamiltonian path length factor: 1.56969789571648
+[1] "======================================="
+74
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Galey.Hill, Brunn, Gibraltar, Brux, Spy.II, Pithecanthropus, Kannstatt, Egisheim 
+Path_length criterion value: 2.12772282457321
+Um factor: 19.289882226671
+Hamiltonian path length factor: 2.12772282457321
+[1] "======================================="
+75
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Kannstatt, Nowosiolka, Brux, Spy.II, Neandertal, Spy.I, Krapina.D, Gibraltar, Brunn, Galey.Hill, Egisheim, Krapina.C 
+Path_length criterion value: 1.96023849312426
+Um factor: 21.283591207063
+Hamiltonian path length factor: 1.96023849312426
+[1] "======================================="
+76
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Brunn, Galey.Hill, Egisheim, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 2.32108761486814
+Um factor: 18.6773231027158
+Hamiltonian path length factor: 2.32108761486814
+[1] "======================================="
+77
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Spy.I, Krapina.C, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Galey.Hill, Brunn, Gibraltar, Krapina.D, Pithecanthropus 
+Path_length criterion value: 1.17271173601173
+Um factor: 19.2569008228371
+Hamiltonian path length factor: 1.17271173601173
+[1] "======================================="
+78
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Galey.Hill, Brunn, Gibraltar, Spy.II, Brux, Pithecanthropus, Kannstatt 
+Path_length criterion value: 1.68263562075999
+Um factor: 15.9878207560652
+Hamiltonian path length factor: 1.68263562075999
+[1] "======================================="
+79
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Krapina.D, Gibraltar, Brunn, Galey.Hill, Kannstatt, Nowosiolka, Brux, Spy.II, Neandertal, Spy.I, Krapina.C 
+Path_length criterion value: 1.64719933553385
+Um factor: 18.2266544782621
+Hamiltonian path length factor: 1.64719933553385
+[1] "======================================="
+80
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Galey.Hill, Brunn, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 2.18136250360675
+Um factor: 14.4468036207015
+Hamiltonian path length factor: 2.18136250360675
+[1] "======================================="
+81
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Egisheim, Pithecanthropus, Spy.II, Spy.I, Neandertal, Brux, Nowosiolka, Kannstatt, Gibraltar, Krapina.C, Krapina.D, Brunn, Galey.Hill 
+Path_length criterion value: 1.81771939372407
+Um factor: 19.131796540425
+Hamiltonian path length factor: 1.81771939372407
+[1] "======================================="
+82
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Egisheim, Kannstatt, Pithecanthropus, Spy.II, Spy.I, Brux, Neandertal, Krapina.D, Gibraltar, Krapina.C, Nowosiolka, Galey.Hill, Brunn 
+Path_length criterion value: 1.96544737153709
+Um factor: 16.7193425878636
+Hamiltonian path length factor: 1.96544737153709
+[1] "======================================="
+83
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Neandertal, Spy.I, Brux, Nowosiolka, Kannstatt, Egisheim, Krapina.D, Gibraltar, Krapina.C, Brunn, Galey.Hill 
+Path_length criterion value: 2.6075001014398
+Um factor: 17.2454416939749
+Hamiltonian path length factor: 2.6075001014398
+[1] "======================================="
+84
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "DD"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Spy.I, Brux, Neandertal, Kannstatt, Gibraltar, Krapina.C, Krapina.D, Egisheim, Galey.Hill, Brunn, Nowosiolka 
+Path_length criterion value: 3.03248699346055
+Um factor: 16.60118587789
+Hamiltonian path length factor: 3.03248699346055
+[1] "======================================="
+85
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Spy.I, Krapina.C, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Krapina.D, Egisheim, Galey.Hill, Brunn, Gibraltar, Pithecanthropus 
+Path_length criterion value: 4.26924318619403
+Um factor: 13.2058962937909
+Hamiltonian path length factor: 4.26924318619403
+[1] "======================================="
+86
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Egisheim, Kannstatt, Brux, Spy.II, Pithecanthropus, Gibraltar, Brunn, Galey.Hill 
+Path_length criterion value: 8.34143608814862
+Um factor: 8.27287707089048
+Hamiltonian path length factor: 8.34143608814862
+[1] "======================================="
+87
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Krapina.D, Egisheim, Galey.Hill, Brunn, Gibraltar, Neandertal, Spy.II, Brux, Nowosiolka, Kannstatt, Krapina.C, Spy.I 
+Path_length criterion value: 7.17163511496662
+Um factor: 11.6162915953135
+Hamiltonian path length factor: 7.17163511496662
+[1] "======================================="
+88
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "0"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Egisheim, Gibraltar, Brunn, Galey.Hill, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 10.4402349015739
+Um factor: 6.41251747500576
+Hamiltonian path length factor: 10.4402349015739
+[1] "======================================="
+89
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Spy.I, Krapina.C, Spy.II, Neandertal, Brux, Nowosiolka, Kannstatt, Brunn, Galey.Hill, Gibraltar, Krapina.D, Pithecanthropus 
+Path_length criterion value: 2.50190191897098
+Um factor: 13.5074230597825
+Hamiltonian path length factor: 2.50190191897098
+[1] "======================================="
+90
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Spy.I, Neandertal, Krapina.D, Spy.II, Brux, Pithecanthropus, Gibraltar, Brunn, Galey.Hill, Kannstatt 
+Path_length criterion value: 5.49519786059383
+Um factor: 7.14730290595071
+Hamiltonian path length factor: 5.49519786059383
+[1] "======================================="
+91
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Krapina.D, Kannstatt, Brux, Nowosiolka, Spy.II, Neandertal, Gibraltar, Brunn, Galey.Hill, Spy.I, Krapina.C 
+Path_length criterion value: 4.39791675336066
+Um factor: 10.7818341998807
+Hamiltonian path length factor: 4.39791675336066
+[1] "======================================="
+92
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "1"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Nowosiolka, Krapina.C, Krapina.D, Neandertal, Spy.I, Gibraltar, Brunn, Galey.Hill, Kannstatt, Brux, Spy.II, Pithecanthropus 
+Path_length criterion value: 7.60835390727843
+Um factor: 5.05063324579593
+Hamiltonian path length factor: 7.60835390727843
+[1] "======================================="
+93
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Egisheim, Pithecanthropus, Kannstatt, Nowosiolka, Brux, Spy.II, Spy.I, Neandertal, Gibraltar, Krapina.D, Krapina.C, Brunn, Galey.Hill 
+Path_length criterion value: 3.37375957481854
+Um factor: 12.0434569303255
+Hamiltonian path length factor: 3.37375957481854
+[1] "======================================="
+94
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"            "TRUE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Brunn, Galey.Hill, Nowosiolka, Krapina.C, Gibraltar, Krapina.D, Neandertal, Brux, Spy.I, Spy.II, Pithecanthropus, Kannstatt, Egisheim 
+Path_length criterion value: 5.0337026016142
+Um factor: 7.92195362920155
+Hamiltonian path length factor: 5.0337026016142
+[1] "======================================="
+95
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+           "TRUE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Gibraltar, Krapina.D, Krapina.C, Brunn, Galey.Hill, Egisheim, Kannstatt, Nowosiolka, Brux, Neandertal, Spy.I, Spy.II, Pithecanthropus 
+Path_length criterion value: 4.96077696547204
+Um factor: 7.42815982462803
+Hamiltonian path length factor: 4.96077696547204
+[1] "======================================="
+96
+  b_use_JCzeTrait         b_radians b_remove_wskaznik       num_similar 
+          "FALSE"           "FALSE"               "2"               "3" 
+   b_use_mean_Sol       c_dist_func       NA_frac_obs       NA_frac_var 
+           "TRUE"              "L2"             "0.5"                NA 
+[1] "Data"
+Pithecanthropus, Spy.II, Spy.I, Brux, Neandertal, Kannstatt, Egisheim, Galey.Hill, Brunn, Gibraltar, Krapina.D, Krapina.C, Nowosiolka 
+Path_length criterion value: 10.0733507573447
+Um factor: 6.05687933448072
+Hamiltonian path length factor: 10.0733507573447
+[1] "======================================="

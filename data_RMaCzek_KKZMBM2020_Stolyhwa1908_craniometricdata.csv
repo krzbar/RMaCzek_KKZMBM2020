@@ -1,0 +1,182 @@
+;trait_index;trait_subindex;Ochos;Arcy;La Naulette;Malarnaud;Podbaby;Tilbury;Sligo;Spy I;Spy II;Krapina piece 1; Krapina piece 2;Krapina;Krapina A;Krapina B;Krapina C;Krapina D;Krapina E;Krapina F;Krapina G;Krapina H;Krapina I;Neandertal;Gibraltar;Pithecanthropus;Kannstatt;Galey Hill;Brunn;Brux;Egisheim;Nowosiolka;trait_name_pl;trait_name_de_Czekanowskis_TabelleI;Czekanowskis_trait_index_TabelleI;trait_name_eng;units;p25_similarity_table_x_column;p25_similarity_table_trait_index;components_index_variable;dependent_index_variable
+trait_value;I;1;;;;;;;;;;;;;;;;;;;;;;20;;;;;;;;16;Grubosc luku nadoczodolowego prawego przy krawedzi medyalnej;;;;mm;1;1;FALSE;FALSE
+trait_value;I;2;;;;;;;;;;;;;;;;;;;;;;12;;;;;;;;8;Grubosc luku nadoczodolowego prawego  w miejscu najcienszem;;;;mm;1;1;FALSE;FALSE
+trait_value;I;3;;;;;;;;;;;;;;;;;;;;;;12;;;;;;;;9;Grubosc luku nadoczodolowego prawego przy krawedzi lateralnej;;;;mm;1;1;FALSE;FALSE
+trait_value;I;4;;;;;;;;;;;;;;;;;;;;;;20;;;;;;;;16;Grubosc luku nadoczodolowego lewego przy krawedzi medyalnej;;;;mm;1;1;FALSE;FALSE
+trait_value;I;5;;;;;;;;;;;;;;;;;;;;;;13;;;;;;;;7;Grubosc luku nadoczodolowego lewego w miejscu najcienszem;;;;mm;1;1;FALSE;FALSE
+trait_value;I;6;;;;;;;;;;;;;;;;;;;;;;13;;;;;;;;10;Grubosc luku nadoczodolowego lewego  przy krawedzi lateralnej;;;;mm;1;1;FALSE;FALSE
+trait_value;I;7;;;;;;;;;;;;;;;13.8;11.3;;;;;;;;;;;;;;;Grubosc luku nadoczodolowego przy krawedzi medyalnej;;;;mm;1;1;FALSE;FALSE
+trait_value;I;8;;;;;;;;;;9;4;;;;9.5;9.3;;;;;;;;;;;;;;;Grubosc luku nadoczodolowego  w miejscu najcienszem;;;;mm;1;1;FALSE;FALSE
+trait_value;I;9;;;;;;;;;;;;;;;12.1;11.5;;;;;;;;;;;;;;;Grubosc luku nadoczodolowego  przy krawedzi lateralnej;;;;;;;FALSE;FALSE
+trait_value;II;1;;;;;;;;32;;28;;;;;29;;;;;;;30;20;;26.2;;;31;;30;Cieciwa miedzyoczodolowa (dakryon-dakryon);Interorbitalbreite(Dakryon-Dakryon);1;;mm;1;2;TRUE;FALSE
+trait_value;II;2;;;;;;;;;;106;;;;;107;;;;;;;112;;;;;;104;;110;Cieciwa biorbitalna wewnetrzna;Innere orbitale Gesictsbreite;2;;mm;1;3;TRUE;FALSE
+trait_min;II;2;;;;;;;;113;;;;;;;;;;;;;;;;;;;;;;;Cieciwa biorbitalna wewnetrzna;;;;mm;;;TRUE;FALSE
+trait_max;II;2;;;;;;;;116;;;;;;;;;;;;;;;;;;;;;;;Cieciwa biorbitalna wewnetrzna;;;;mm;;;TRUE;FALSE
+trait_value;II;3;;;;;;;;;;26.4;;;;;27.1;;;;;;;27;;;;;;29.8;;27.27;Wskaznik miedzyoczodolowy;Interorbital-Index;3;;;1;4;FALSE;TRUE
+trait_min;II;3;;;;;;;;28;;;;;;;;;;;;;;;;;;;;;;;Wskaznik miedzyoczodolowy;;;;;;;FALSE;TRUE
+trait_max;II;3;;;;;;;;29;;;;;;;;;;;;;;;;;;;;;;;Wskaznik miedzyoczodolowy;;;;;;;FALSE;TRUE
+trait_value;III;1;;;;;;;;123;124;126;;;;;118;126.2;;;;;;126;;106;;;;;;122;Cieciwa biorbitalna zewnetrzna;;;;mm;1;5;TRUE;FALSE
+trait_value;III;2;;;;;98;101;102;104;109;104;;;;;98.5;110.4;;;;;;107.5;95;87;96;;;92;;104;Najmniejsza szerokosc czola;Kleinste Stirnbreite;4;;mm;1;6;TRUE;FALSE
+trait_value;III;3;;;;;;;;84.5;87.9;82.5;;;;;83.4;87.3;;;;;;88.8;;82;;;;;;85.25;Wskaznik czolowo-biorbitalny;;;;;2;7;FALSE;TRUE
+trait_value;IV;1;;;;;;;;46;50.5;;;;;;52;50;;;;;;44;;37.5;60;52;54;;;53.5;Kat bregmy;Bregmawinkel;5;;degree;2;8;FALSE;FALSE
+trait_min;IV;1;;;;;;;;;;;;;;;;;;;;;;;50;;;;;45.5;;;Kat bregmy;Bregmawinkel;5;;degree;;;FALSE;FALSE
+trait_max;IV;1;;;;;;;;;;;;;;;;;;;;;;;51;;;;;51;;;Kat bregmy;Bregmawinkel;5;;degree;;;FALSE;FALSE
+trait_value;V;1;;;;;;;;59;70;;;;;;70;66;;;;;;62;;52.5;90;82;75;;;78;Kat czolowy;Stirnwinkel;6;;degree;3;9;FALSE;FALSE
+trait_min;V;1;;;;;;;;;;;;;;;;;;;;;;;73;;;;;72.5;;;Kat czolowy;Stirnwinkel;6;;degree;;;FALSE;FALSE
+trait_max;V;1;;;;;;;;;;;;;;;;;;;;;;;74;;;;;77;;;Kat czolowy;Stirnwinkel;6;;degree;;;FALSE;FALSE
+trait_value;VI;1;;;;;;;;151;141.5;;;;;;;;;;;;;139;;146.25;135;;;131;;131;Kat wypuklosci kosci czolowej utworzony przez cieciwy idace od nasionu I bregmy do punktu najwyzszego w stosunku do cieciwy: nasion-bregma;Stirnwoelbungswinkel;7;;degree;3;10;FALSE;FALSE
+trait_value;VI;2;;;;;;;;159;151;;;;134;;;;;;;;;150;;153.2;;;;;;139;Kat wypuklosci kosci czolowej utworzony przez cieciwy idace od glabelli I bregmy  do punktu najwyzszego w stosunku do cieciwy: glabella--bregma;;;;degree;3;11;FALSE;FALSE
+trait_value;VII;1;;;;;;;;16;16.5;;;;;;17;;;;;;;15;;;;17;17;17;;18;Kat lambda-glabella-inion;Lambda-Glabella_Inion-winkel;8;;degree;2;12;FALSE;FALSE
+trait_value;VIII;1;;;;;;;;108;115;;;;;;;;;;;;;119;;;117;;;115;115;116;Cieciwa nasion-bregma;Nasion-Bregma-Sehne;10;;mm;1;13;TRUE;FALSE
+trait_min;VIII;1;;;;;;;;;;;;;;;;;;;;;;;;96;;;;;;;Cieciwa nasion-bregma;Nasion-Bregma-Sehne;10;;mm;;;TRUE;FALSE
+trait_max;VIII;1;;;;;;;;;;;;;;;;;;;;;;;;112;;;;;;;Cieciwa nasion-bregma;Nasion-Bregma-Sehne;10;;mm;;;TRUE;FALSE
+trait_value;VIII;2;;;;;;;;115;124;;;;;;;;;;;;;133;;;135;;;135;130;133;Luk: nasion-bregma;Nasion-Bregma-Bogen;11;;mm;1;14;TRUE;FALSE
+trait_min;VIII;2;;;;;;;;;;;;;;;;;;;;;;;;100;;;;;;;Luk: nasion-bregma;Nasion-Bregma-Bogen;11;;mm;;;TRUE;FALSE
+trait_max;VIII;2;;;;;;;;;;;;;;;;;;;;;;;;120;;;;;;;Luk: nasion-bregma;Nasion-Bregma-Bogen;11;;mm;;;TRUE;FALSE
+trait_value;VIII;3;;;;;;;;93.9;92.7;;;;;;;;;;;;;87.2;;94.6;86.67;;;85.1;88.5;87.22;Wskaznik a wypuklosci sklepienia kosci czolowej;Sehnenbogen-Index des Frontale;9;;;1;15;FALSE;TRUE
+trait_value;VIII;4;;;;;;;;;;;;;90.3;;;;;;;;;89.4;;;;;;;;92.8;Wskaznik b wypuklosci sklepienia kosci czolowej;;;;;1;16;FALSE;TRUE
+trait_min;VIII;4;;;;;;;;89.4;89.4;;;;;;;;;;;;;;;;;;;;;;Wskaznik b wypuklosci sklepienia kosci czolowej;;;;;;;FALSE;TRUE
+trait_max;VIII;4;;;;;;;;93.8;93.8;;;;;;;;;;;;;;;;;;;;;;Wskaznik b wypuklosci sklepienia kosci czolowej;;;;;;;FALSE;TRUE
+trait_value;IX;1;;;;;;;;32;30;;;;;;28.2;;;;;;;38;36;24;19;24;30;24;;25;Cieciwa glabellarna kosci czolowej;Sehne der Pars glabellaris des Frontale;12;;mm;2;17;TRUE;FALSE
+trait_value;IX;2;;;;;;;;81;92;;;;;;86;;;;;;;86;82;;104;95;96;99;;99;Cieciwa cereblarna kosci czolowej;Sehne der Pars celebralis des Frontale;13;;mm;3;18;TRUE;FALSE
+trait_min;IX;2;;;;;;;;;;;;;;;;;;;;;;;;80;;;;;;;Cieciwa cereblarna kosci czolowej;Sehne der Pars celebralis des Frontale;13;;mm;;;TRUE;FALSE
+trait_max;IX;2;;;;;;;;;;;;;;;;;;;;;;;;95;;;;;;;Cieciwa cereblarna kosci czolowej;Sehne der Pars celebralis des Frontale;13;;mm;;;TRUE;FALSE
+trait_value;IX;3;;;;;;;;;34.4;;;;;;32.7;;;;;;;44.2;43;27.6;18.2;25.2;31.2;24.24;29;25.25;Wskaznik glabello-cerebralny;Cerebro-Glabellar-Index;14;;;3;19;FALSE;TRUE
+trait_min;IX;3;;;;;;;;40.9;;;;;;;;;;;;;;;;;;;;;;;Wskaznik glabello-cerebralny;Cerebro-Glabellar-Index;14;;;;;FALSE;TRUE
+trait_max;IX;3;;;;;;;;41.5;;;;;;;;;;;;;;;;;;;;;;;Wskaznik glabello-cerebralny;Cerebro-Glabellar-Index;14;;;;;FALSE;TRUE
+trait_value;X;1;;;;;;;;155.5;147;;;;;;;;;;;;;151;;154.5;;;;143.5;;139;Kat wypuklosci pars cerebralis kosci czolowej;Bogenwinkel d.Pars cerebralis;15;;degree;3;20;FALSE;FALSE
+trait_value;XI;1;;;;;;;;83;100;;;;;;;;;;;;;95;;;113;;;105;;105;Luk pars cerebralis kosci czolowej;Bogenlange d. Pars cerebralis;16;;mm;3;21;TRUE;FALSE
+trait_min;XI;1;;;;;;;;;;;;;;;;;;;;;;;;78;;;;;;;Luk pars cerebralis kosci czolowej;Bogenlange d. Pars cerebralis;16;;mm;;;TRUE;FALSE
+trait_max;XI;1;;;;;;;;;;;;;;;;;;;;;;;;98;;;;;;;Luk pars cerebralis kosci czolowej;Bogenlange d. Pars cerebralis;16;;mm;;;TRUE;FALSE
+trait_value;XI;2;;;;;;;;97.5;92;;;;;;;;;;;;;95.5;;96.1;92.04;;;94.29;;92.38;Wskaznik wypuklosci pars cerebralis kosci czolowej;Sehnen-Bogen-Index der Pars cerebralis des Frontale;17;;;1;22;FALSE;TRUE
+trait_value;XII;1;;;;;;;;198;196;;;;;;;197.5;;;;;;199;187;181;174;201;201;;;194;Cieciwa glabella-inion;Glabella-Inion-Lange;18;;mm;2;23;TRUE;FALSE
+trait_min;XII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;180;;;Cieciwa glabella-inion;Glabella-Inion-Lange;18;;mm;;;TRUE;FALSE
+trait_max;XII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;185;;;Cieciwa glabella-inion;Glabella-Inion-Lange;18;;mm;;;TRUE;FALSE
+trait_value;XII;2;;;;;;;;34.8;35.2;;;;;;;31.8;;;;;;38.4;;44.1;;;;;;35.56;Wskaznik polozenia bregmy;;;;;1;24;FALSE;TRUE
+trait_value;XIII;1;;;;;;72.1;;71.2;71.2;;;;72.5;;66.4;;;;;;;73.1;64.2;65.4;65.7;;;;61.3;72.22;Wskaznik czolowo-ciemieniowy;Transversalers Frontal-Index;19;;;1;25;FALSE;TRUE
+trait_min;XIII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;68;;;Wskaznik czolowo-ciemieniowy;Transversalers Frontal-Index;19;;;;;FALSE;FALSE
+trait_max;XIII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;71;;;Wskaznik czolowo-ciemieniowy;Transversalers Frontal-Index;19;;;;;FALSE;FALSE
+trait_value;XIV;1;;;;;;;;;;;;86.3;;;;92.8;;;;;;94.5;;;;;;;;91.18;Wskaznik wypuklosci kosci ciemieniowej;;;;;1;26;FALSE;FALSE
+trait_value;XV;1;;;;;;;;104.3;96.7;;;;;;;;;;;;;;;85.8;;;;92.6;95.3;102.26;Wskaznik kosci ciemieniowych;Sagittaler Frontoparietal-Index;20;;;1;27;FALSE;FALSE
+trait_min;XV;1;;;;;;;;;;;;;;;;;;;;;;82.7;;;;;;;;;Wskaznik kosci ciemieniowych;Sagittaler Frontoparietal-Index;20;;;;;FALSE;TRUE
+trait_max;XV;1;;;;;;;;;;;;;;;;;;;;;;89.4;;;;;;;;;Wskaznik kosci ciemieniowych;Sagittaler Frontoparietal-Index;20;;;;;FALSE;TRUE
+trait_value;XVI;1;;;;;;;;;198;;;;;;178;197.5;;;;;;199;;181;178;205;204;;;200;Najwieksza dlugosc czaszki;Groesste Schaedellaenge;21;;mm;2;28;TRUE;FALSE
+trait_min;XVI;1;;;;;;;;;;;;;;;;;;;;;;;190;;;;;190;;;Najwieksza dlugosc czaszki;Groesste Schaedellaenge;21;;mm;;;TRUE;FALSE
+trait_max;XVI;1;;;;;;;;;;;;;;;;;;;;;;;192.5;;;;;195;;;Najwieksza dlugosc czaszki;Groesste Schaedellaenge;21;;mm;;;TRUE;FALSE
+trait_value;XVI;2;;;;;;140;;;;;;;;;149;169;;;;;;147;148;133;146;130;139;;;144;Najwieksza szerokosc czaszki;Groesste Schaedelbreite;22;;mm;2;29;TRUE;FALSE
+trait_min;XVI;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;130;;;Najwieksza szerokosc czaszki;Groesste Schaedelbreite;22;;mm;;;TRUE;FALSE
+trait_max;XVI;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;135;;;Najwieksza szerokosc czaszki;Groesste Schaedelbreite;22;;mm;;;TRUE;FALSE
+trait_value;XVI;3;;;;;;;;72.2;77.2;;;;;;83.7;85.5;;;;;;73.9;77.9;73.4;82;63.4;68.2;69;;72;Wskaznik szerokosciowo-dlugosciowy;Laengen-Breiten-Index;23;;;2;30;FALSE;TRUE
+trait_value;XVII;1;;;;;;;;81;87;;;;;;82;83.5;;;;;;;85;62;105;97;103;;;104;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehe ueber Glabella-Inion;24;;mm;3;31;TRUE;FALSE
+trait_min;XVII;1;;;;;;;;;;;;;;;;;;;;;;80.5;;;;;;85;;;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehe ueber Glabella-Inion;24;;mm;;;TRUE;FALSE
+trait_max;XVII;1;;;;;;;;;;;;;;;;;;;;;;84;;;;;;92;;;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehe ueber Glabella-Inion;24;;mm;;;TRUE;FALSE
+trait_value;XVIII;1;;;;;;;;40.9;44.3;;;;;;46;42.2;;;;;;40.4;45.4;34.2;;48.2;51.2;;55.5;53.61;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehen-Index (Glabella-Inion);25;;;3;32;FALSE;TRUE
+trait_min;XVIII;1;;;;;;;;;;;;;;;;;;;;;;;;;58.99;;;47.6;;;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehen-Index (Glabella-Inion);25;;;;;FALSE;TRUE
+trait_max;XVIII;1;;;;;;;;;;;;;;;;;;;;;;;;;60.34;;;51.1;;;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-inion;Kalottenhoehen-Index (Glabella-Inion);25;;;;;FALSE;TRUE
+trait_value;XIX;1;;;;;;;;51;58;;;;;;;53;;;;;;;;;75;;;56;70;66;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehe ueber Glabella-Lambda;26;;mm;3;33;TRUE;FALSE
+trait_min;XIX;1;;;;;;;;;;;;;;;;;;;;;;54.5;;;;;;;;;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehe ueber Glabella-Lambda;26;;mm;;;TRUE;FALSE
+trait_max;XIX;1;;;;;;;;;;;;;;;;;;;;;;57;;;;;;;;;Wysokosc sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehe ueber Glabella-Lambda;26;;mm;;;TRUE;FALSE
+trait_value;XX;1;;;;;;;;27.4;31.3;;;;;;;29.3;;;;;;29.4;;;;;;30.2;37.8;34.02;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehen-Index (Glabella-Lambda);27;;;2;34;FALSE;TRUE
+trait_min;XX;1;;;;;;;;;;;;;;;;;;;;;;;;;42.1;;;;;;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehen-Index (Glabella-Lambda);27;;;;;FALSE;TRUE
+trait_max;XX;1;;;;;;;;;;;;;;;;;;;;;;;;;43.3;;;;;;Wskaznik wysokosci sklepienia czaszki w stosunku do cieciwy: glabella-lambda;Kalottenhoehen-Index (Glabella-Lambda);27;;;;;FALSE;TRUE
+trait_value;XXI;1;;;;;;;;;;;;;;;76;65;;;;;;66.5;;;;74;78;;;82;Kat lambda;;;;degree;3;35;FALSE;FALSE
+trait_min;XXI;1;;;;;;;;;;;;;;;;;;;;;;;69;;;;;;;;Kat lambda;;;;degree;;;FALSE;FALSE
+trait_max;XXI;1;;;;;;;;;;;;;;;;;;;;;;;73;;;;;;;;Kat lambda;;;;degree;;;FALSE;FALSE
+trait_value;XXII;1;;;;;;;;;;;;;;;;57;;;;;;51.5;36;;;42;42;;;36;Kat opisthion;;;;degree;3;36;FALSE;FALSE
+trait_min;XXII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kat opisthion;;;;degree;;;FALSE;FALSE
+trait_max;XXII;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kat opisthion;;;;degree;;;FALSE;FALSE
+trait_value;XXIII;1;;;;;;;;;;;;;77;80.4;77;77;;;;;;;;;;;;;;81.45;Wskaznik wypuklosci potylicy;;;;;2;37;FALSE;FALSE
+trait_value;XXVI;1;;;;;;;;28;;;;;;;21;;27.7;24.7;;;;;;;;;;;;18;Cieciwa akanthion-prosthion;;;;mm;2;40;FALSE;FALSE
+trait_value;XXVII;1;;24;23;22;;;;33;;;;;;25;20;29;24.1;27.4;27.5;;32.2;;;;;;;;;28;Wysokosc zuchwy przy zebach trzonowych;;;;mm;1;41;TRUE;FALSE
+trait_min;XXVII;1;;;;;;;;;;;;;;;;;;;;33;;;;;;;;;;;Wysokosc zuchwy przy zebach trzonowych;;;;mm;;;TRUE;FALSE
+trait_max;XXVII;1;;;;;;;;;;;;;;;;;;;;34.3;;;;;;;;;;;Wysokosc zuchwy przy zebach trzonowych;;;;mm;;;TRUE;FALSE
+trait_value;XXVII;2;;28;31;26;;;;38;;;;;;25.3;;;35;31;;40;42.3;;;;;;;;;35;Wysokosc zuchwy w okolicy spojenia;;;;mm;1;42;TRUE;FALSE
+trait_min;XXVII;2;;;;;;;;;;;;;;;28.5;30.5;;;30.4;;;;;;;;;;;;Wysokosc zuchwy w okolicy spojenia;;;;mm;;;TRUE;FALSE
+trait_max;XXVII;2;;;;;;;;;;;;;;;29;33;;;31.5;;;;;;;;;;;;Wysokosc zuchwy w okolicy spojenia;;;;mm;;;TRUE;FALSE
+trait_value;XXVII;3;;85.7;74.19;84.6;;;;86.8;;;;;;;;84.8;68.8;;;85.7;71.3;;;;;;;;;80;Wskaznik wysokosci zuchwy;;;;;1;43;FALSE;TRUE
+trait_min;XXVII;3;;;;;;;;;;;;;;;;;;;88.8;;;;;;;;;;;;Wskaznik wysokosci zuchwy;;;;;;;FALSE;TRUE
+trait_max;XXVII;3;;;;;;;;;;;;;;;;;;;92.1;;;;;;;;;;;;Wskaznik wysokosci zuchwy;;;;;;;FALSE;TRUE
+trait_value;XXVIII;1;18;15.5;14;13;;;;15;;;;;;;13.4;13.6;13.1;14.5;14.4;15.4;15;;;;;;;;;14;Grubosc ciala zuchwy w okolicy spojenia;;;;mm;1;44;FALSE;FALSE
+trait_value;XXIX;1;66;;;;;;;68;;;;;;;70.4;;;;;66.5;74;;;;;;;;;70;Odleglosc krawedzi zewnetrznych 2-ich zeobw trzonowych;;;;mm;1;45;FALSE;FALSE
+trait_value;XXX;;;;89;;;;;84.5;;;;;;;96.5;94;95;102;103.5;106;94;;;;;;;;;68;Kat zuchwy przedni;;;;degree;3;46;FALSE;FALSE
+trait_value;XXXI;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;Szczeka gorna szerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;1;;;;;;;;;;;;9.2;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;1;;;;;;;;;;;;10.5;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;2;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;6.7;Szczeka gorna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;2;;;;;;;;;;;;8.25;;;;;;;;;;;;;;;;;;7;Szczeka gorna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11;Szczeka gorna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;3;;;;;;;;;;;;11;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;3;;;;;;;;;;;;13.3;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10.1;Szczeka gorna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;4;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;4;;;;;;;;;;;;12;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;9;Szczeka gorna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;5;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;5;;;;;;;;;;;;11.3;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;Szczeka gorna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;6;;;;;;;;;;;;11.35;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;6;;;;;;;;;;;;11.4;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12;Szczeka gorna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;7;;;;;;;;;;;;12.5;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;7;;;;;;;;;;;;13.35;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;8;;;;;;;;;;;;11.2;;;;;;;;;;;;;;;;;;12;Szczeka gorna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;8;;;;;;;;;;;;14;;;;;;;;;;;;;;;;;;12.5;Szczeka gorna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;9;;;;;;;;;;;;10.1;;;;;;;;;;;;;;;;;;10;Szczeka gorna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;9;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;9;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7;Szczeka gorna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;10;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;10;;;;;;;;;;;;10.1;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6.5;Szczeka gorna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7;Szczeka gorna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7;Szczeka gorna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;12;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka gorna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;13;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7;Szczeka dolna szerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;13;;;;;;;;;;;;8;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;13;;;;;;;;;;;;8.4;;;;;;;;;;;;;;;;;;;Szczeka dolnaszerokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;14;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7.1;Szczeka dolna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;14;;;;;;;;;;;;7.8;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;14;;;;;;;;;;;;8.3;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11.5;Szczeka dolna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;15;;;;;;;;;;;;11.2;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;15;;;;;;;;;;;;13.8;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11;Szczeka dolna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;16;;;;;;;;;;;;11.4;;;;;;;;;;;;;;;;;;11.5;Szczeka gorna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;16;;;;;;;;;;;;12.5;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;Szczeka dolna szerokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;17;;;;;;;;;;;;11;;;;;;;;;;;;;;;;;;;Szczeka gorna szerokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;17;;;;;;;;;;;;13.6;;;;;;;;;;;;;;;;;;;Szczeka dolna szerokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;18;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;9;Szczeka dolna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8.1;Szczeka dolna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;19;;;;;;;;;;;;9;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;19;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11;Szczeka dolna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;20;;;;;;;;;;;;10.5;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;20;;;;;;;;;;;;12.4;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10.5;Szczeka dolna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;21;;;;;;;;;;;;10.6;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;21;;;;;;;;;;;;11.4;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10;Szczeka dolna grubosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;22;;;;;;;;;;;;10;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;22;;;;;;;;;;;;11;;;;;;;;;;;;;;;;;;;Szczeka dolna grubosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;23;;;;;;;;;;;;13.4;;;;;;;;;;;;;;;;;;10;Szczeka dolna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab C;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;24;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8;Szczeka dolna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;24;;;;;;;;;;;;8.6;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;24;;;;;;;;;;;;9;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab P;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;6;Szczeka dolna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;25;;;;;;;;;;;;6.5;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;25;;;;;;;;;;;;9.4;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab M1;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;26;;;;;;;;;;;;6.8;;;;;;;;;;;;;;;;;;6.5;Szczeka dolna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;26;;;;;;;;;;;;7.5;;;;;;;;;;;;;;;;;;7.5;Szczeka dolna wysokosc korony zab M2;;;;mm;2;47;FALSE;FALSE
+trait_value;XXXI;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;7;Szczeka dolna wysokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_min;XXXI;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
+trait_max;XXXI;27;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczeka dolna wysokosc korony zab M3;;;;mm;2;47;FALSE;FALSE
