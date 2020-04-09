@@ -13,10 +13,6 @@ results_RMaCzek_KKZMBM2020_OtherSetups_ManuallyHighlightedSetups.txt : the setup
 results_RMaCzek_KKZMBM2020_OtherSetups.RData : results under all the setups
 results_RMaCzek_KKZMBM2020_OtherSetups.txt : printing out the best found orderings under all the setups
 
-## References
-## [1] J. Czekanowski (1909). Zur Differentialdiagnose der Neandertalgruppe, Korespondentblatt der
-## Deutschen Gesellschaft fur Anthropologie, Ethnologie und Urgeschichte, XL(6/7), 44-47.
-## [2] K. Stolyhwa (1908). Czaszka z Nowosiolki jako dowod istnienia w okresie historycznym kształtow
-## pokrewnych z Homo primigenius, Rozprawy Wydzialu matematyczno-przyrodnicznego
-## Akademii Umiejetnosci, XLVIII(B), 1-27 (The skull from Nowosiolka  as proof of existence during the era of 
-## history shapes common with Homo primigenius, in Polish).
+References
+[1] J. Czekanowski (1909). Zur Differentialdiagnose der Neandertalgruppe, Korespondentblatt der Deutschen Gesellschaft fur Anthropologie, Ethnologie und Urgeschichte, XL(6/7), 44-47.
+[2] K. Stolyhwa (1908). Czaszka z Nowosiolki jako dowod istnienia w okresie historycznym kształtów pokrewnych z Homo primigenius, Rozprawy Wydzialu matematyczno-przyrodnicznego Akademii Umiejetnosci, XLVIII(B), 1-27 (The skull from Nowosiolka  as proof of existence during the Era of History shapes common with Homo primigenius, in Polish).
