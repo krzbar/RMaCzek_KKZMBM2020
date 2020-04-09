@@ -33,7 +33,7 @@ skulls_distances_2["Galey Hill","Neandertal"]<-10.540 ## here there was a typo i
 rownames(skulls_distances_2)[3]<-"Krapina C" ## here there was a typo in Czekanowski (1909)'s data
 dsdDJ<-(abs(skulls_distances_2-mDistJCze))/skulls_distances_2 ## the relative difference between the two distance matrices
 diag(dsdDJ)<-0 ## diagonal is 0
-pdf("plot_RMaCzek_KKZMBM2020_htmpdsdDJ.pdf");heatmap.2(dsdDJ,Rowv=NA,Colv=NA,scale="none", dendrogram="none",density.info = "none",trace = "none",lhei = c(12,2),sepwidth =c(0.001,0.0001),symkey=FALSE,key.title=NA,key.xlab=NA,lmat=rbind( c(1,3),c(2,4)),lwid=c(7,2),col=terrain.colors);dev.off()
+png("plot_RMaCzek_KKZMBM2020_htmpdsdDJ.png");heatmap.2(dsdDJ,Rowv=NA,Colv=NA,scale="none", dendrogram="none",density.info = "none",trace = "none",lhei = c(12,2),sepwidth =c(0.001,0.0001),symkey=FALSE,key.title=NA,key.xlab=NA,lmat=rbind( c(1,3),c(2,4)),lwid=c(7,2),col=terrain.colors);dev.off()
 ## plot Czekanowski's diagram under the best found ordering for the replication of Czekanowski (1909)'s analysis
 png("plot_RMaCzek_KKZMBM2020_JCze1909ordered.png");plot(res_all[[1]]$res_distf_from_direct,plot_title="");dev.off() 
 
