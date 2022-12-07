@@ -7,7 +7,7 @@ code_RMaCzek_KKZMBM2020_graphics.R : script creating the graphics, depends on th
 
 code_RMaCzek_KKZMBM2020_torun.R : script with the main logic, to be sourced
 
-data_RMaCzek_KKZMBM2020_Stolyhwa1908_craniometricdata.csv : data from Stolyhwa (1908)
+data_RMaCzek_KKZMBM2020_Stolyhwa1908_craniometricdata.csv : data from Stolyhwo (1908)
 
 randomseed_RMaCzek_KKZMBM2020_JCze1909setup.RData : random seed for replication of the reanalysis of Czekanowski (1909)'s paper
 
